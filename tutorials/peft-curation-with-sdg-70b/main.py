@@ -400,7 +400,7 @@ def main():
     parser.add_argument(
         "--api-key",
         type=str,
-        default="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",
+        default="",
         help="The API key to use for the synthetic data generation LLM client.",
     )
     parser.add_argument(
